@@ -1,0 +1,6 @@
+model_checkpoint_path: "lstm_model-30000"
+all_model_checkpoint_paths: "lstm_model-26000"
+all_model_checkpoint_paths: "lstm_model-27000"
+all_model_checkpoint_paths: "lstm_model-28000"
+all_model_checkpoint_paths: "lstm_model-29000"
+all_model_checkpoint_paths: "lstm_model-30000"
